@@ -1,0 +1,19 @@
+TUGAS PBO LANJUT 1
+
+AUTHOR  : ADITYA BAYU AJI
+NIM     : 200511140
+R2 - TEKNIK INFORMATIKA
+
+--------------- SEPUTAR PROGRAM ---------------
+
+database.py
+merupakan source penyimpanan sekaligus pendeklarasian database
+
+connection.py
+merupakan source dimana pengkoneksian antara database dan program
+
+mahasiswa.py
+merupakan source dimana deklarasi class mahasiswa berada
+
+main.py
+adalah antar muka/tempat mengeksekusi program
